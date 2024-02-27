@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo Building...",
-    "test": "echo Running...."
+    "build": "echo Running build...",
+    "test": "echo Running test....."
   },
   "keywords": [],
   "author": "",
