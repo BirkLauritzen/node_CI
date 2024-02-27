@@ -13,7 +13,7 @@ jobs:
       run:
         shell: bash
         # Defines the working directory for all run steps in the workflow
-        working-directory: ./web
+        # working-directory: ./src
     runs-on: ubuntu-latest
     steps:    
     - uses: actions/checkout@v2
